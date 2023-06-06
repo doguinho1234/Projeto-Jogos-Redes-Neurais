@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+}
+
+.lista {
+    width: 300px;
+    margin: auto;
+}
+
+.main {
+    text-align: center;
+}
+
+#preview {
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    margin: 50px 0;
+}
+
+#button-check {
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 20px 10px;
+    background-color: rgb(216, 233, 248);
+}
+
+#margin {
+    margin-bottom: 50px;
+}
